@@ -1,2 +1,2 @@
 a = input("Enter a number")
-print(a+2)
+print(a+5)
